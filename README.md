@@ -31,7 +31,7 @@ Returns the formatted path as a string.
 
 ## Example
 ```php
-$path = '/this/is/my/path'
+$path = '/this/is/my/path';
 $pathyi = new \Kiryi\Pathyi\Formatter();
 
 $path = $pathyi->format($path);
