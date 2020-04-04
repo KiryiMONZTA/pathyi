@@ -12,7 +12,7 @@ $pathyi = new \Kiryi\Pathyi\Formatter();
 $path = $pathyi->format($path);
 ```
 
-## Method Definition
+## Method Definition *format*
 ```php
 format(string $path, bool $leadingSlash = false, bool $trailingSlash = false): string
 ```
