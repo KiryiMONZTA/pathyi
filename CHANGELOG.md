@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2020-04-24
+### Added
+- Manual improved.
+
 ## [1.0.0] - 2020-04-03
 ### Added
 - `Formatter` single point of process.
